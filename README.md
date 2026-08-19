@@ -6,7 +6,7 @@ I build desktop tools that run offline and keep their data on the machine.
 
 ---
 
-### Workspace
+### [Workspace](https://github.com/itsmk91/workspace)
 
 A macOS app for building software with AI, on a pipeline where **every gate belongs to a person**.
 
@@ -19,6 +19,8 @@ Every delivery arrives with a before-and-after picture and a plain-language note
 It reads projects live from disk, never copies them, and runs entirely offline.
 
 `Electron` · `Node` · `macOS`
+
+**[See how it works →](https://github.com/itsmk91/workspace)**
 
 ---
 
