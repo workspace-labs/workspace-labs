@@ -2,7 +2,7 @@
 
 I build desktop tools that run offline and keep their data on the machine.
 
-### Workspace
+### [Workspace](https://github.com/itsmk91/workspace)
 
 A macOS app for building projects with AI on a human-gated pipeline — idea → plan → build → review. The AI writes the plans and the code; committing, accepting and rejecting stay with the person. It reads your projects live from disk and runs entirely offline.
 
