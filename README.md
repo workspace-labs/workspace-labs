@@ -24,6 +24,12 @@ It reads projects live from disk, never copies them, and runs entirely offline.
 
 ---
 
+### [Separation of duties for AI agents](https://github.com/itsmk91/agent-separation-of-duties)
+
+The pattern underneath Workspace, written on its own so anyone can use it: give each agent one job it can't change, give each task one owner, let nothing review itself, and keep the final yes for a person — then enforce all four somewhere the agent can't reach.
+
+---
+
 ### Also building
 
 **BudgetIQ** — shared budgets · **VaultIQ** — inventory · **Luma** — a private companion · **SmartRoute** — document study
