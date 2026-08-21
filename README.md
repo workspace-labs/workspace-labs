@@ -1,6 +1,6 @@
 ## itsmk91
 
-I build desktop tools that run offline and keep their data on the machine.
+I build desktop tools that run offline and keep their data on the machine, under **Workspace Labs**.
 
 ![Workspace](media/workspace.png)
 
