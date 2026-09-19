@@ -1,4 +1,4 @@
-## itsmk91
+## workspace-labs
 
 I build desktop tools that run offline and keep their data on the machine, under **Workspace Labs**.
 
@@ -6,7 +6,7 @@ I build desktop tools that run offline and keep their data on the machine, under
 
 ---
 
-### [Workspace](https://github.com/itsmk91/workspace)
+### [Workspace](https://github.com/workspace-labs/workspace)
 
 A macOS app for building software with AI, on a pipeline where **every gate belongs to a person**.
 
@@ -20,11 +20,11 @@ It reads projects live from disk, never copies them, and runs entirely offline.
 
 `Electron` · `Node` · `macOS`
 
-**[See how it works →](https://github.com/itsmk91/workspace)**
+**[See how it works →](https://github.com/workspace-labs/workspace)**
 
 ---
 
-### [Separation of duties for AI agents](https://github.com/itsmk91/agent-separation-of-duties)
+### [Separation of duties for AI agents](https://github.com/workspace-labs/agent-separation-of-duties)
 
 The pattern underneath Workspace, written on its own so anyone can use it: give each agent one job it can't change, give each task one owner, let nothing review itself, and keep the final yes for a person — then enforce all four somewhere the agent can't reach.
 
@@ -40,4 +40,4 @@ Offline-first, all of them. Private repositories.
 
 ### Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/mohammad-aljaziri-940750105/)
+[LinkedIn](https://www.linkedin.com/in/workspacelabs)
