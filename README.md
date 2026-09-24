@@ -1,43 +1,37 @@
 ## workspace-labs
 
-I build desktop tools that run offline and keep their data on the machine, under **Workspace Labs**.
+I build tools for working with AI agents — where the agents do the work and a person keeps the final say.
 
-![Workspace](media/workspace.png)
-
----
-
-### [Workspace](https://github.com/workspace-labs/workspace)
-
-A macOS app for building software with AI, on a pipeline where **every gate belongs to a person**.
-
-Three agents work the board — one asks the questions and writes the plan, one builds, one reads the code the other wrote and reports the bugs in plain language. They draft plans and deliver finished work. What they never do is decide the work is done: **committing, accepting and rejecting stay with the person.**
-
-Underneath sit twenty-four standing rules, each written together with the failure that produced it — and four guards that simply refuse: destructive commands, work outside an agent's assigned lane, a typeface that breaks the project's design law, a stray key or network call slipping into a build.
-
-Every delivery arrives with a before-and-after picture and a plain-language note, so the work can be reviewed without opening the code.
-
-It reads projects live from disk, never copies them, and runs entirely offline.
-
-`Electron` · `Node` · `macOS`
-
-**[See how it works →](https://github.com/workspace-labs/workspace)**
+![WorkSpace Labs](media/workspace.png)
 
 ---
 
-### [Separation of duties for AI agents](https://github.com/workspace-labs/agent-separation-of-duties)
+### [WorkSpace Labs](https://github.com/workspace-labs/workspace)
 
-The pattern underneath Workspace, written on its own so anyone can use it: give each agent one job it can't change, give each task one owner, let nothing review itself, and keep the final yes for a person — then enforce all four somewhere the agent can't reach.
+A macOS app for building software with AI, on a board where **every gate belongs to a person**.
+
+Three agents share the work: one asks questions and writes the plan, one writes the test list and reviews the code, one builds. None of them can mark its own work finished — **commit, accept and reject stay with me.**
+
+Standing rules sit underneath, each written after the mistake that caused it, and guards run before every command an agent types. Every delivery arrives with a before-and-after picture and a plain-language note.
+
+Runs offline. Reads projects live from disk.
+
+**[See how it works →](https://github.com/workspace-labs/workspace)** · **[workspace-labs.net](https://workspace-labs.net)**
 
 ---
 
-### Also building
+### Skills and patterns, free to use
 
-**BudgetIQ** — shared budgets · **VaultIQ** — inventory · **Luma** — a private companion · **SmartRoute** — document study
-
-Offline-first, all of them. Private repositories.
+| | |
+|---|---|
+| [agent-separation-of-duties](https://github.com/workspace-labs/agent-separation-of-duties) | Split the jobs between agents — and enforce the split |
+| [agent-duty-mode](https://github.com/workspace-labs/agent-duty-mode) | Let agents keep working while nobody is there to answer |
+| [agent-health-checks](https://github.com/workspace-labs/agent-health-checks) | Two checkers: one for agent instructions, one for the code they change |
+| [agent-engineering-standard](https://github.com/workspace-labs/agent-engineering-standard) | Structure, tests and docs from the first file |
+| [agent-builder-handoff](https://github.com/workspace-labs/agent-builder-handoff) | Proof of what was checked, instead of a bare "done" |
+| [human-handoff](https://github.com/workspace-labs/human-handoff) | Accept, ask, or don't accept an agent's work — in a few plain lines |
+| [ultracode-discipline](https://github.com/workspace-labs/ultracode-discipline) | Keep a team of agents disciplined under one leader |
 
 ---
 
-### Elsewhere
-
-[LinkedIn](https://www.linkedin.com/in/workspacelabs)
+[workspace-labs.net](https://workspace-labs.net) · [X](https://x.com/workspacelabs91) · [LinkedIn](https://www.linkedin.com/in/workspacelabs)
