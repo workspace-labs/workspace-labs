@@ -31,6 +31,7 @@ Runs offline. Reads projects live from disk.
 | [agent-builder-handoff](https://github.com/workspace-labs/agent-builder-handoff) | Proof of what was checked, instead of a bare "done" |
 | [human-handoff](https://github.com/workspace-labs/human-handoff) | Accept, ask, or don't accept an agent's work — in a few plain lines |
 | [ultracode-discipline](https://github.com/workspace-labs/ultracode-discipline) | Keep a team of agents disciplined under one leader |
+| [workflow-project](https://github.com/workspace-labs/workflow-project) | Understand a new project first — then hand over how it works, A to Z |
 
 ---
 
