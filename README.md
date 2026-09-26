@@ -1,5 +1,3 @@
-![WorkSpace Labs. AI agents for real work.](media/hero.png)
-
 ![Featured. WorkSpace Labs. Your universe of work.](media/featured-v3.png)
 
 <p align="center">
