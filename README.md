@@ -1,38 +1,70 @@
-## workspace-labs
+<p align="center">
+  <img src="media/hero.png" alt="WorkSpace Labs. AI agents for real work." width="100%">
+</p>
 
-I build tools for working with AI agents — where the agents do the work and a person keeps the final say.
+<p align="center">
+  <img src="media/featured.png" alt="Featured. WorkSpace Labs. Your universe of work." width="100%">
+</p>
 
-![WorkSpace Labs](media/workspace.png)
+<p align="center">
+  <a href="https://github.com/workspace-labs/workspace"><strong>AI Agents</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/workspace-labs/workflow-project"><strong>Workflows</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/workspace-labs/human-handoff"><strong>Human Gate</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/workspace-labs?tab=repositories"><strong>Open Source</strong></a>
+  <br><br>
+  <a href="https://github.com/workspace-labs/workspace"><strong>View repository →</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://workspace-labs.net"><strong>Live site ↗</strong></a>
+</p>
 
----
+## Open Source Projects
 
-### [WorkSpace Labs](https://github.com/workspace-labs/workspace)
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/workspace-labs/human-handoff">human-handoff</a></h3>
+Structured human handoff for AI workflows with audit and clear states.
+<br><br>
+<code>AI</code> <code>Governance</code> <code>Safety</code>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/workspace-labs/agent-separation-of-duties">agent-separation-of-duties</a></h3>
+Split the jobs between agents, and enforce the split.
+<br><br>
+<code>Multi-agent</code> <code>Review</code>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/workspace-labs/ultracode-discipline">ultracode-discipline</a></h3>
+A disciplined workflow for building and verifying code with AI.
+<br><br>
+<code>Workflow</code> <code>Quality</code> <code>Best Practices</code>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/workspace-labs/workspace">workspace</a></h3>
+The core workspace platform for AI engineering.
+<br><br>
+<code>Platform</code> <code>Agents</code> <code>Tools</code>
+</td>
+</tr>
+</table>
 
-A macOS app for building software with AI, on a board where **every gate belongs to a person**.
+<p align="right"><a href="https://github.com/workspace-labs?tab=repositories"><strong>View all repositories →</strong></a></p>
 
-Three agents share the work: one asks questions and writes the plan, one writes the test list and reviews the code, one builds. None of them can mark its own work finished — **commit, accept and reject stay with me.**
+## Focus
 
-Standing rules sit underneath, each written after the mistake that caused it, and guards run before every command an agent types. Every delivery arrives with a before-and-after picture and a plain-language note.
+- AI Engineering
+- Open Source Tools
+- Agent Workflows
+- Human-Centered Design
+- Practical Solutions
 
-Runs offline. Reads projects live from disk.
+## Connect
 
-**[See how it works →](https://github.com/workspace-labs/workspace)** · **[workspace-labs.net](https://workspace-labs.net)**
-
----
-
-### Skills and patterns, free to use
-
-| | |
-|---|---|
-| [agent-separation-of-duties](https://github.com/workspace-labs/agent-separation-of-duties) | Split the jobs between agents — and enforce the split |
-| [agent-duty-mode](https://github.com/workspace-labs/agent-duty-mode) | Let agents keep working while nobody is there to answer |
-| [agent-health-checks](https://github.com/workspace-labs/agent-health-checks) | Two checkers: one for agent instructions, one for the code they change |
-| [agent-engineering-standard](https://github.com/workspace-labs/agent-engineering-standard) | Structure, tests and docs from the first file |
-| [agent-builder-handoff](https://github.com/workspace-labs/agent-builder-handoff) | Proof of what was checked, instead of a bare "done" |
-| [human-handoff](https://github.com/workspace-labs/human-handoff) | Accept, ask, or don't accept an agent's work — in a few plain lines |
-| [ultracode-discipline](https://github.com/workspace-labs/ultracode-discipline) | Keep a team of agents disciplined under one leader |
-| [workflow-project](https://github.com/workspace-labs/workflow-project) | Understand a new project first — then hand over how it works, A to Z |
-
----
-
-[workspace-labs.net](https://workspace-labs.net) · [X](https://x.com/workspacelabs91) · [LinkedIn](https://www.linkedin.com/in/workspacelabs)
+- [Website](https://workspace-labs.net) — workspace-labs.net
+- [LinkedIn](https://www.linkedin.com/in/workspacelabs) — in/workspacelabs
+- [X](https://x.com/workspacelabs91) — @workspacelabs91
