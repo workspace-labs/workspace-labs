@@ -1,6 +1,6 @@
 ![WorkSpace Labs. AI agents for real work.](media/hero.png)
 
-![Featured. WorkSpace Labs. Your universe of work.](media/featured.png)
+![Featured. WorkSpace Labs. Your universe of work.](media/featured-v3.png)
 
 <p align="center">
   <a href="https://github.com/workspace-labs/workspace"><strong>AI Agents</strong></a>
