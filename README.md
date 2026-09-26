@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="media/hero.png" alt="WorkSpace Labs. AI agents for real work." width="100%">
-</p>
+![WorkSpace Labs. AI agents for real work.](media/hero.png)
 
-<p align="center">
-  <img src="media/featured.png" alt="Featured. WorkSpace Labs. Your universe of work." width="100%">
-</p>
+![Featured. WorkSpace Labs. Your universe of work.](media/featured.png)
 
 <p align="center">
   <a href="https://github.com/workspace-labs/workspace"><strong>AI Agents</strong></a>
@@ -22,38 +18,19 @@
 
 ## Open Source Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/workspace-labs/human-handoff">human-handoff</a></h3>
+**[human-handoff](https://github.com/workspace-labs/human-handoff)**
 Structured human handoff for AI workflows with audit and clear states.
-<br><br>
-<code>AI</code> <code>Governance</code> <code>Safety</code>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/workspace-labs/agent-separation-of-duties">agent-separation-of-duties</a></h3>
-Split the jobs between agents, and enforce the split.
-<br><br>
-<code>Multi-agent</code> <code>Review</code>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/workspace-labs/ultracode-discipline">ultracode-discipline</a></h3>
-A disciplined workflow for building and verifying code with AI.
-<br><br>
-<code>Workflow</code> <code>Quality</code> <code>Best Practices</code>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/workspace-labs/workspace">workspace</a></h3>
-The core workspace platform for AI engineering.
-<br><br>
-<code>Platform</code> <code>Agents</code> <code>Tools</code>
-</td>
-</tr>
-</table>
 
-<p align="right"><a href="https://github.com/workspace-labs?tab=repositories"><strong>View all repositories →</strong></a></p>
+**[agent-separation-of-duties](https://github.com/workspace-labs/agent-separation-of-duties)**
+Split the jobs between agents, and enforce the split.
+
+**[ultracode-discipline](https://github.com/workspace-labs/ultracode-discipline)**
+A disciplined workflow for building and verifying code with AI.
+
+**[workspace](https://github.com/workspace-labs/workspace)**
+The core workspace platform for AI engineering.
+
+[View all repositories →](https://github.com/workspace-labs?tab=repositories)
 
 ## Focus
 
