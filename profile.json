@@ -1,0 +1,14 @@
+{
+  "owner": "workspace-labs",
+  "exclude": ["workspace-labs", "workspace-labs-site"],
+  "hide_topic": "hide-from-profile",
+  "sections": [
+    {"title": "📄 Documents your project needs",
+     "repos": ["introflow", "workflow-project", "project-docs", "frameflow", "deckcraft", "week-planner"]},
+    {"title": "🧑‍✈️ Agent discipline",
+     "repos": ["agent-engineering-standard", "ultracode-discipline", "agent-health-checks", "agent-builder-handoff"]},
+    {"title": "✋ Human gate",
+     "repos": ["human-handoff", "vibe-to-engineering"]}
+  ],
+  "more_title": "🧩 More"
+}
