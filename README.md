@@ -33,7 +33,7 @@
 <p><a href="https://github.com/workspace-labs/workflow-project#install"><strong>Install →</strong></a></p>
 </td>
 <td width="33%" valign="top">
-<a href="https://github.com/workspace-labs/project-docs"><img src="https://raw.githubusercontent.com/workspace-labs/project-docs/main/media/project-docs-hero.png" alt="project-docs"></a><br>
+<a href="https://github.com/workspace-labs/project-docs"><img src="https://raw.githubusercontent.com/workspace-labs/project-docs/main/media/project-docs-hero-v2.png" alt="project-docs"></a><br>
 <h3><a href="https://github.com/workspace-labs/project-docs">project-docs</a></h3>
 <p>The documents your project needs, written with you before anyone builds it.</p>
 <p><a href="https://github.com/workspace-labs/project-docs#install"><strong>Install →</strong></a></p>
