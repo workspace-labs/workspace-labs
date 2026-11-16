@@ -39,7 +39,7 @@
 <p><a href="https://github.com/workspace-labs/project-docs#install"><strong>Install →</strong></a></p>
 </td>
 <td width="33%" valign="top">
-<a href="https://github.com/workspace-labs/frameflow"><img src="https://raw.githubusercontent.com/workspace-labs/frameflow/main/media/frameflow-hero.png" alt="frameflow"></a><br>
+<a href="https://github.com/workspace-labs/frameflow"><img src="https://raw.githubusercontent.com/workspace-labs/frameflow/main/media/frameflow-hero-v2.png" alt="frameflow"></a><br>
 <h3><a href="https://github.com/workspace-labs/frameflow">frameflow</a></h3>
 <p>Turn an app idea into a storyboard your client can approve.</p>
 <p><a href="https://github.com/workspace-labs/frameflow#install"><strong>Install →</strong></a></p>
