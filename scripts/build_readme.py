@@ -104,7 +104,7 @@ def build(cfg, repos):
         "",
         "<table>\n<tr>",
         f'<td width="55%">{img}</td>',
-        f'<td valign="middle">\n{badges}🆕 new\n<h3><a href="{newest["url"]}">{newest["name"]}</a></h3>\n'
+        f'<td valign="middle">\n{badges}🆕\n<h3><a href="{newest["url"]}">{newest["name"]}</a></h3>\n'
         f'<p>{newest["blurb"]}</p>\n<p><a href="{newest["install"]}"><strong>Install →</strong></a></p>\n</td>',
         "</tr>\n</table>",
         "",
