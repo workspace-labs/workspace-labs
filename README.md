@@ -14,7 +14,7 @@
 <tr>
 <td width="55%"><a href="https://github.com/workspace-labs/introflow"><img src="https://raw.githubusercontent.com/workspace-labs/introflow/main/media/introflow-hero.png" alt="introflow" width="100%"></a></td>
 <td valign="middle">
-<code>0.2.0</code> &nbsp;🆕 new
+<code>0.2.0</code> &nbsp;🆕
 <h3><a href="https://github.com/workspace-labs/introflow">introflow</a></h3>
 <p>Describe your whole project to anyone outside it.</p>
 <p><a href="https://github.com/workspace-labs/introflow#install"><strong>Install →</strong></a></p>
