@@ -12,12 +12,12 @@
 
 <table>
 <tr>
-<td width="55%"><a href="https://github.com/workspace-labs/introflow"><img src="https://raw.githubusercontent.com/workspace-labs/introflow/main/media/introflow-hero.png" alt="introflow" width="100%"></a></td>
+<td width="55%"><a href="https://github.com/workspace-labs/agent-review-handoff"><img src="https://raw.githubusercontent.com/workspace-labs/agent-review-handoff/main/media/independent-review-handoff-hero.png" alt="agent-review-handoff" width="100%"></a></td>
 <td valign="middle">
-<code>0.2.0</code> &nbsp;🆕
-<h3><a href="https://github.com/workspace-labs/introflow">introflow</a></h3>
-<p>Describe your whole project to anyone outside it.</p>
-<p><a href="https://github.com/workspace-labs/introflow#install"><strong>Install →</strong></a></p>
+<code>1.1.0</code> &nbsp;🆕
+<h3><a href="https://github.com/workspace-labs/agent-review-handoff">agent-review-handoff</a></h3>
+<p>An independent review handoff for AI agents.</p>
+<p><a href="https://github.com/workspace-labs/agent-review-handoff"><strong>Install →</strong></a></p>
 </td>
 </tr>
 </table>
@@ -26,6 +26,12 @@
 
 <table>
 <tr>
+<td width="33%" valign="top">
+<a href="https://github.com/workspace-labs/introflow"><img src="https://raw.githubusercontent.com/workspace-labs/introflow/main/media/introflow-hero.png" alt="introflow"></a><br>
+<h3><a href="https://github.com/workspace-labs/introflow">introflow</a></h3>
+<p>Describe your whole project to anyone outside it.</p>
+<p><a href="https://github.com/workspace-labs/introflow#install"><strong>Install →</strong></a></p>
+</td>
 <td width="33%" valign="top">
 <a href="https://github.com/workspace-labs/workflow-project"><img src="https://raw.githubusercontent.com/workspace-labs/workflow-project/main/media/workflow-project-hero.png" alt="workflow-project"></a><br>
 <h3><a href="https://github.com/workspace-labs/workflow-project">workflow-project</a></h3>
@@ -38,14 +44,14 @@
 <p>The documents your project needs, written with you before anyone builds it.</p>
 <p><a href="https://github.com/workspace-labs/project-docs#install"><strong>Install →</strong></a></p>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://github.com/workspace-labs/frameflow"><img src="https://raw.githubusercontent.com/workspace-labs/frameflow/main/media/frameflow-hero-v2.png" alt="frameflow"></a><br>
 <h3><a href="https://github.com/workspace-labs/frameflow">frameflow</a></h3>
 <p>Turn an app idea into a storyboard your client can approve.</p>
 <p><a href="https://github.com/workspace-labs/frameflow#install"><strong>Install →</strong></a></p>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://github.com/workspace-labs/deckcraft"><img src="https://raw.githubusercontent.com/workspace-labs/deckcraft/main/media/deckcraft-hero-0.1.2.png" alt="deckcraft"></a><br>
 <h3><a href="https://github.com/workspace-labs/deckcraft">deckcraft</a></h3>
