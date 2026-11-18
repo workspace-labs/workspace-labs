@@ -6,7 +6,7 @@
     {"title": "📄 Documents your project needs",
      "repos": ["introflow", "workflow-project", "project-docs", "frameflow", "deckcraft", "week-planner"]},
     {"title": "🧑‍✈️ Agent discipline",
-     "repos": ["agent-engineering-standard", "ultracode-discipline", "agent-health-checks", "agent-builder-handoff"]},
+     "repos": ["software-engineering-build-standard", "ultracode-discipline", "agent-health-checks", "agent-builder-handoff"]},
     {"title": "✋ Human gate",
      "repos": ["human-handoff", "vibe-to-engineering"]}
   ],
