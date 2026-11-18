@@ -92,7 +92,7 @@
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="https://github.com/workspace-labs/agent-builder-handoff"><img src="https://raw.githubusercontent.com/workspace-labs/agent-builder-handoff/main/media/how-i-hand-over-finished-work.png" alt="agent-builder-handoff"></a><br>
+<a href="https://github.com/workspace-labs/agent-builder-handoff"><img src="https://raw.githubusercontent.com/workspace-labs/agent-builder-handoff/main/media/builder-handoff-hero.png" alt="agent-builder-handoff"></a><br>
 <h3><a href="https://github.com/workspace-labs/agent-builder-handoff">agent-builder-handoff</a></h3>
 <p>A builder handoff for AI agents.</p>
 <p><a href="https://github.com/workspace-labs/agent-builder-handoff"><strong>Install →</strong></a></p>
