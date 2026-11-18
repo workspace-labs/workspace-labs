@@ -72,6 +72,12 @@
 <table>
 <tr>
 <td width="33%" valign="top">
+<a href="https://github.com/workspace-labs/software-engineering-build-standard"><img src="https://raw.githubusercontent.com/workspace-labs/software-engineering-build-standard/main/media/the-whole-map.png" alt="software-engineering-build-standard"></a><br>
+<h3><a href="https://github.com/workspace-labs/software-engineering-build-standard">software-engineering-build-standard</a></h3>
+<p>An engineering standard for AI agents that build software.</p>
+<p><a href="https://github.com/workspace-labs/software-engineering-build-standard"><strong>Install →</strong></a></p>
+</td>
+<td width="33%" valign="top">
 <a href="https://github.com/workspace-labs/ultracode-discipline"><img src="https://raw.githubusercontent.com/workspace-labs/ultracode-discipline/main/media/ultracode-discipline-hero.png" alt="ultracode-discipline"></a><br>
 <h3><a href="https://github.com/workspace-labs/ultracode-discipline">ultracode-discipline</a></h3>
 <p>Disciplined multi-agent execution for Claude UltraCode.</p>
@@ -83,6 +89,8 @@
 <p>Two read-only checkers for AI agents.</p>
 <p><a href="https://github.com/workspace-labs/agent-health-checks"><strong>Install →</strong></a></p>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://github.com/workspace-labs/agent-builder-handoff"><img src="https://raw.githubusercontent.com/workspace-labs/agent-builder-handoff/main/media/how-i-hand-over-finished-work.png" alt="agent-builder-handoff"></a><br>
 <h3><a href="https://github.com/workspace-labs/agent-builder-handoff">agent-builder-handoff</a></h3>
@@ -107,19 +115,6 @@
 <h3><a href="https://github.com/workspace-labs/vibe-to-engineering">vibe-to-engineering</a></h3>
 <p>Checks from evidence whether a project needs restructuring and, if it does, migrates it one approved phase at a time with verified recovery checkpoints.</p>
 <p><a href="https://github.com/workspace-labs/vibe-to-engineering#install"><strong>Install →</strong></a></p>
-</td>
-</tr>
-</table>
-
-## 🧩 More
-
-<table>
-<tr>
-<td width="33%" valign="top">
-<a href="https://github.com/workspace-labs/software-engineering-build-standard"><img src="https://raw.githubusercontent.com/workspace-labs/software-engineering-build-standard/main/media/the-whole-map.png" alt="software-engineering-build-standard"></a><br>
-<h3><a href="https://github.com/workspace-labs/software-engineering-build-standard">software-engineering-build-standard</a></h3>
-<p>An engineering standard for AI agents that build software.</p>
-<p><a href="https://github.com/workspace-labs/software-engineering-build-standard"><strong>Install →</strong></a></p>
 </td>
 </tr>
 </table>
