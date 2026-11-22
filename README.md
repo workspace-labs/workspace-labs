@@ -12,12 +12,12 @@
 
 <table>
 <tr>
-<td width="55%"><a href="https://github.com/workspace-labs/agent-review-handoff"><img src="https://raw.githubusercontent.com/workspace-labs/agent-review-handoff/main/media/independent-review-handoff-hero.png" alt="agent-review-handoff" width="100%"></a></td>
+<td width="55%"><a href="https://github.com/workspace-labs/checkflow"><img src="https://raw.githubusercontent.com/workspace-labs/checkflow/main/media/checkflow-hero.png" alt="checkflow" width="100%"></a></td>
 <td valign="middle">
-<code>1.1.0</code> &nbsp;🆕
-<h3><a href="https://github.com/workspace-labs/agent-review-handoff">agent-review-handoff</a></h3>
-<p>An independent review handoff for AI agents.</p>
-<p><a href="https://github.com/workspace-labs/agent-review-handoff"><strong>Install →</strong></a></p>
+<code>0.2.0</code> &nbsp;🆕
+<h3><a href="https://github.com/workspace-labs/checkflow">checkflow</a></h3>
+<p>A skill for checking a finished project against what the client approved, before handover.</p>
+<p><a href="https://github.com/workspace-labs/checkflow#install"><strong>Install →</strong></a></p>
 </td>
 </tr>
 </table>
@@ -39,7 +39,7 @@
 <p><a href="https://github.com/workspace-labs/workflow-project#install"><strong>Install →</strong></a></p>
 </td>
 <td width="33%" valign="top">
-<a href="https://github.com/workspace-labs/project-docs"><img src="https://raw.githubusercontent.com/workspace-labs/project-docs/main/media/project-docs-hero-v2.png" alt="project-docs"></a><br>
+<a href="https://github.com/workspace-labs/project-docs"><img src="https://raw.githubusercontent.com/workspace-labs/project-docs/main/media/project-docs-hero-v3.png" alt="project-docs"></a><br>
 <h3><a href="https://github.com/workspace-labs/project-docs">project-docs</a></h3>
 <p>The documents your project needs, written with you before anyone builds it.</p>
 <p><a href="https://github.com/workspace-labs/project-docs#install"><strong>Install →</strong></a></p>
@@ -115,6 +115,19 @@
 <h3><a href="https://github.com/workspace-labs/vibe-to-engineering">vibe-to-engineering</a></h3>
 <p>Checks from evidence whether a project needs restructuring and, if it does, migrates it one approved phase at a time with verified recovery checkpoints.</p>
 <p><a href="https://github.com/workspace-labs/vibe-to-engineering#install"><strong>Install →</strong></a></p>
+</td>
+</tr>
+</table>
+
+## 🧩 More
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="https://github.com/workspace-labs/agent-review-handoff"><img src="https://raw.githubusercontent.com/workspace-labs/agent-review-handoff/main/media/independent-review-handoff-hero.png" alt="agent-review-handoff"></a><br>
+<h3><a href="https://github.com/workspace-labs/agent-review-handoff">agent-review-handoff</a></h3>
+<p>An independent review handoff for AI agents.</p>
+<p><a href="https://github.com/workspace-labs/agent-review-handoff"><strong>Install →</strong></a></p>
 </td>
 </tr>
 </table>
