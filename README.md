@@ -14,7 +14,7 @@
 <tr>
 <td width="55%"><a href="https://github.com/workspace-labs/checkflow"><img src="https://raw.githubusercontent.com/workspace-labs/checkflow/main/media/checkflow-hero.png" alt="checkflow" width="100%"></a></td>
 <td valign="middle">
-<code>0.2.0</code> &nbsp;🆕
+<code>0.3.1</code> &nbsp;🆕
 <h3><a href="https://github.com/workspace-labs/checkflow">checkflow</a></h3>
 <p>A skill for checking a finished project against what the client approved, before handover.</p>
 <p><a href="https://github.com/workspace-labs/checkflow#install"><strong>Install →</strong></a></p>
@@ -39,7 +39,7 @@
 <p><a href="https://github.com/workspace-labs/workflow-project#install"><strong>Install →</strong></a></p>
 </td>
 <td width="33%" valign="top">
-<a href="https://github.com/workspace-labs/project-docs"><img src="https://raw.githubusercontent.com/workspace-labs/project-docs/main/media/project-docs-hero-v3.png" alt="project-docs"></a><br>
+<a href="https://github.com/workspace-labs/project-docs"><img src="https://raw.githubusercontent.com/workspace-labs/project-docs/main/media/project-docs-hero-v4.png" alt="project-docs"></a><br>
 <h3><a href="https://github.com/workspace-labs/project-docs">project-docs</a></h3>
 <p>The documents your project needs, written with you before anyone builds it.</p>
 <p><a href="https://github.com/workspace-labs/project-docs#install"><strong>Install →</strong></a></p>
