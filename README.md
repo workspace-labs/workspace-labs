@@ -12,12 +12,12 @@
 
 <table>
 <tr>
-<td width="55%"><a href="https://github.com/workspace-labs/checkflow"><img src="https://raw.githubusercontent.com/workspace-labs/checkflow/main/media/checkflow-hero.png" alt="checkflow" width="100%"></a></td>
+<td width="55%"><a href="https://github.com/workspace-labs/project-journey"><img src="https://raw.githubusercontent.com/workspace-labs/project-journey/main/media/project-journey-hero.png" alt="project-journey" width="100%"></a></td>
 <td valign="middle">
-<code>0.3.1</code> &nbsp;🆕
-<h3><a href="https://github.com/workspace-labs/checkflow">checkflow</a></h3>
-<p>A skill for checking a finished project against what the client approved, before handover.</p>
-<p><a href="https://github.com/workspace-labs/checkflow#install"><strong>Install →</strong></a></p>
+<code>0.1.1</code> &nbsp;🆕
+<h3><a href="https://github.com/workspace-labs/project-journey">project-journey</a></h3>
+<p>Which skill first, and which comes next.</p>
+<p><a href="https://github.com/workspace-labs/project-journey#install"><strong>Install →</strong></a></p>
 </td>
 </tr>
 </table>
@@ -124,10 +124,30 @@
 <table>
 <tr>
 <td width="33%" valign="top">
+<a href="https://github.com/workspace-labs/weekflow"><img src="https://raw.githubusercontent.com/workspace-labs/weekflow/main/media/weekflow-hero.png" alt="weekflow"></a><br>
+<h3><a href="https://github.com/workspace-labs/weekflow">weekflow</a></h3>
+<p>A skill for running weekly client meetings from the project's real work.</p>
+<p><a href="https://github.com/workspace-labs/weekflow#install"><strong>Install →</strong></a></p>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/workspace-labs/checkflow"><img src="https://raw.githubusercontent.com/workspace-labs/checkflow/main/media/checkflow-hero.png" alt="checkflow"></a><br>
+<h3><a href="https://github.com/workspace-labs/checkflow">checkflow</a></h3>
+<p>A skill for checking a finished project against what the client approved, before handover.</p>
+<p><a href="https://github.com/workspace-labs/checkflow#install"><strong>Install →</strong></a></p>
+</td>
+<td width="33%" valign="top">
 <a href="https://github.com/workspace-labs/agent-review-handoff"><img src="https://raw.githubusercontent.com/workspace-labs/agent-review-handoff/main/media/independent-review-handoff-hero.png" alt="agent-review-handoff"></a><br>
 <h3><a href="https://github.com/workspace-labs/agent-review-handoff">agent-review-handoff</a></h3>
 <p>An independent review handoff for AI agents.</p>
 <p><a href="https://github.com/workspace-labs/agent-review-handoff"><strong>Install →</strong></a></p>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://github.com/workspace-labs/break-it"><img src="https://raw.githubusercontent.com/workspace-labs/break-it/main/media/break-it-hero.png" alt="break-it"></a><br>
+<h3><a href="https://github.com/workspace-labs/break-it">break-it</a></h3>
+<p>Agent skill: the reviewer attacks a throwaway local copy of your own app and reports every hole before you ship.</p>
+<p><a href="https://github.com/workspace-labs/break-it"><strong>Install →</strong></a></p>
 </td>
 </tr>
 </table>
