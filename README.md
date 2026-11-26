@@ -12,9 +12,9 @@
 
 <table>
 <tr>
-<td width="55%"><a href="https://github.com/workspace-labs/project-journey"><img src="https://raw.githubusercontent.com/workspace-labs/project-journey/main/media/project-journey-hero.png" alt="project-journey" width="100%"></a></td>
+<td width="55%"><a href="https://github.com/workspace-labs/project-journey"><img src="https://raw.githubusercontent.com/workspace-labs/project-journey/main/media/build-or-develop.png" alt="project-journey" width="100%"></a></td>
 <td valign="middle">
-<code>0.1.1</code> &nbsp;🆕
+<code>0.3.0</code> &nbsp;🆕
 <h3><a href="https://github.com/workspace-labs/project-journey">project-journey</a></h3>
 <p>Which skill first, and which comes next.</p>
 <p><a href="https://github.com/workspace-labs/project-journey#install"><strong>Install →</strong></a></p>
@@ -87,7 +87,7 @@
 <a href="https://github.com/workspace-labs/agent-health-checks"><img src="https://raw.githubusercontent.com/workspace-labs/agent-health-checks/main/media/health-checks.png" alt="agent-health-checks"></a><br>
 <h3><a href="https://github.com/workspace-labs/agent-health-checks">agent-health-checks</a></h3>
 <p>Two read-only checkers for AI agents.</p>
-<p><a href="https://github.com/workspace-labs/agent-health-checks"><strong>Install →</strong></a></p>
+<p><a href="https://github.com/workspace-labs/agent-health-checks#install"><strong>Install →</strong></a></p>
 </td>
 </tr>
 <tr>
