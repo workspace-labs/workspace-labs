@@ -75,7 +75,7 @@
 <a href="https://github.com/workspace-labs/software-engineering-build-standard"><img src="https://raw.githubusercontent.com/workspace-labs/software-engineering-build-standard/main/media/the-whole-map.png" alt="software-engineering-build-standard"></a><br>
 <h3><a href="https://github.com/workspace-labs/software-engineering-build-standard">software-engineering-build-standard</a></h3>
 <p>An engineering standard for AI agents that build software.</p>
-<p><a href="https://github.com/workspace-labs/software-engineering-build-standard"><strong>Install →</strong></a></p>
+<p><a href="https://github.com/workspace-labs/software-engineering-build-standard#install"><strong>Install →</strong></a></p>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/workspace-labs/ultracode-discipline"><img src="https://raw.githubusercontent.com/workspace-labs/ultracode-discipline/main/media/ultracode-discipline-hero.png" alt="ultracode-discipline"></a><br>
